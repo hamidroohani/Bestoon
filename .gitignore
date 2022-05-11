@@ -1,3 +1,4 @@
 db.sqlite3
 .idea/
 bestoon/__pycache__
+web/__pycache__
